@@ -1,1 +1,1 @@
-# THM_Writeups
+# THM_WRITEUPS
